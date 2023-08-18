@@ -1,0 +1,14 @@
+
+# First module
+os.system:
+  this module i used 
+  to clear the console
+
+# Second module
+  random.choise:
+  this module i used to select words
+
+# Thirth module
+english_words:
+  I used this module to insert 
+  English words into the project
